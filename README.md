@@ -1,1 +1,1 @@
-# scoop core api
+Django-Ninja Boilerplate code with Layered Architecture
